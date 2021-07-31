@@ -1,4 +1,4 @@
-# 👋Opa! sou o Gustavo Aurelio
+# 👋Opa! sou o Gustavo Aurélio
 
  <div>
   <a href="https://github.com/c">
