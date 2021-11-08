@@ -5,10 +5,11 @@ I'm a software development enthusiast.
 I'm currently working with javascript/typescript on both front-end and mobile, using react and react native. In the backend I usually use php and for personal projects I use node.
 
 ### My study plans:
- * Elixir
+ * Elixir <img src='https://img.shields.io/badge/-Now-sucess'/>
  * Infra as a code
- * databases
- * linux
+ * Databases
+ * Linux
+ * Rust
  ## ⭐Stats
 <div>
   <a href="https://github.com/c">
