@@ -31,6 +31,9 @@ I'm currently working with javascript/typescript on both front-end and mobile, u
 
 ### Contacts
 <a href="https://www.linkedin.com/in/gustavo210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+### Music
+![https://spotify-github-profile.vercel.app/api/view.svg?uid=12158145278&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=12158145278&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)
 	
 
 
